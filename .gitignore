@@ -1,0 +1,23 @@
+# virtual env
+.venv/
+venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# reports / artifacts
+reports/
+screenshots/
+logs/
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
+
+
+
